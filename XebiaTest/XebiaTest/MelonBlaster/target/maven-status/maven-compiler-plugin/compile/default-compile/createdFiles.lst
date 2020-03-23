@@ -1,0 +1,11 @@
+com\xebia\MelonBlaster\service\MelonBlasterServiceImpl.class
+com\xebia\MelonBlaster\util\MelonBlasterUtil.class
+com\xebia\MelonBlaster\MelonBlaster.class
+com\xebia\MelonBlaster\service\MelonBlasterFacade.class
+com\xebia\MelonBlaster\util\MelonBlasterUtil$1.class
+com\xebia\MelonBlaster\constants\MelonBlasterEnum.class
+com\xebia\MelonBlaster\util\MelonBlasterUtil$3.class
+com\xebia\MelonBlaster\service\MelonBlasterService.class
+com\xebia\MelonBlaster\service\MelonBlasterFactory.class
+com\xebia\MelonBlaster\util\MelonBlasterUtil$2.class
+com\xebia\MelonBlaster\XebiaTest.class
